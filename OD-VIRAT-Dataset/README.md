@@ -125,4 +125,3 @@ Scene 9      | ███ 5%          | ██ 3%          | ██ 4%          |
 Scene 10     | █████ 8%        | █ 1%           | ████████ 14%   |
 
 <img src="Figures/bbox_per_frame_v2.png" width="800"/>
-
