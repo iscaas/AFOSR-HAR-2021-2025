@@ -28,7 +28,7 @@
    * [Acknowledgements](#acknowledgements)
 <!--te-->
 
-## News
+<!-- ## News -->
 
 ## Overview
 
