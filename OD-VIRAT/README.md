@@ -26,7 +26,7 @@
 
 ## Dataset Detail and  Preparation
 
-Please follow [DATA.md](./DATA.md) for dataset details and preparation step.
+Please follow [DATA.md](./DATA.md) for dataset details and preparation steps.
 
 ## Training
 <!--
