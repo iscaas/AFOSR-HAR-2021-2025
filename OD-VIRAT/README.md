@@ -17,7 +17,7 @@
    * [Overview](#overview)
    * [Visualization](#visualization-first-and-last-layer-spatio-temporal-modulator)
    * [Environment Setup](#environment-setup)
-   * [Dataset Preparation](#dataset-preparation)
+   * [Dataset Detail and Data Preparation](#dataset-preparation)
    * [Training](#training)
    * [Evaluation](#evaluation)
    * [Citation](#citation)
