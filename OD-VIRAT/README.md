@@ -24,9 +24,9 @@
    * [Acknowledgements](#acknowledgements)
 <!--te-->
 
-## Dataset Detail and  Preparation
+## Dataset Detail and Data Preparation
 
-Please follow [DATA.md](./DATA.md) for dataset details and preparation steps.
+Please follow [DATA.md](./DATA.md) for dataset details and data preparation.
 
 ## Training
 <!--
