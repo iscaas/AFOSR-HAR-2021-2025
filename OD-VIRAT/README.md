@@ -77,11 +77,11 @@
 <hr>
 
 ## Visualization: Visual Illustration of Each Scene 
-<!--
-<p align="center">
-  <img alt="Visualization Cutting Apple" src="figs/vis/cutting_apple.png" width="900"/>
-</p>
 
+<p align="center">
+  <img src="Figures/scene1.gif" alt="Scene 1" width="400"/>
+</p>
+<!--
 <p align="center">
   <img alt="Visualization Scuba Diving" src="figs/vis/scuba_diving.png" width="900"/>
 </p>
