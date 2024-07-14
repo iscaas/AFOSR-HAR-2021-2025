@@ -150,4 +150,8 @@ Scene 10     | █████ 8%        | █ 1%           | ██████
 
 <img src="Figures/bbox_per_frame_v2.png" width="800"/>
 
+## Acknowledgements
+Our code is based on [MMDetection](https://github.com/open-mmlab/mmdetection) repositoru. We thank the authors for releasing their code. If you use our code, please consider citing these works as well.
+
+
 
