@@ -24,6 +24,10 @@
    * [Acknowledgements](#acknowledgements)
 <!--te-->
 
+## Dataset Detail and  Preparation
+
+Please follow [DATA.md](./DATA.md) for dataset details and preparation step.
+
 ## Training
 <!--
 To train a Video-FocalNet on a video dataset from scratch, run:
