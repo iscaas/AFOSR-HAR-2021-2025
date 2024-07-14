@@ -10,6 +10,18 @@
 > **Abstract:**
 >*will add paper abstract here...*
 
+## Table of Contents
+<!--ts-->
+   * [News](#rocket-News)
+   * [Overview](#overview)
+   * [Visualization](#visualization-first-and-last-layer-spatio-temporal-modulator)
+   * [Environment Setup](#environment-setup)
+   * [Dataset Preparation](#dataset-preparation)
+   * [Evaluation](#evaluation)
+   * [Training](#training)
+   * [Citation](#citation)
+   * [Acknowledgements](#acknowledgements)
+<!--te-->
 
 **OD-VIRAT** is an object detection benchmark developed for object detection tasks in challenging surveillance environments. This dataset is constructed from videos of the [VIRAT Ground 2.0 Dataset](https://viratdata.org/), comprising 329 surveillance video captured through stationary ground cameras mounted at significant heights (mostly atop buildings), spanning 11 distinct scenes.
 <hr>
