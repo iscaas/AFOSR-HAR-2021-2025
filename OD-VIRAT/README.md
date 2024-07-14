@@ -79,7 +79,7 @@
 ## Visualization: Visual Illustration of Each Scene 
 
 <p align="center">
-  <img src="Figures/scene1.gif" alt="Scene 1" width="400"/>
+  <img src="Figures/scene1.gif" alt="Scene 1" width="400"/> <img src="Figures/scene1.gif" alt="Scene 1" width="400"/> <img src="Figures/scene1.gif" alt="Scene 1" width="400"/>
 </p>
 <!--
 <p align="center">
