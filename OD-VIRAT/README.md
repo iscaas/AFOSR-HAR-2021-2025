@@ -19,9 +19,9 @@
 <!--ts-->
    * [News](#rocket-News)
    * [Overview](#overview)
-   * [Visualization](#visualization-first-and-last-layer-spatio-temporal-modulator)
+   * [Visualization](#visualization-visual-illustration-of-each-scene)
    * [Environment Setup](#environment-setup)
-   * [Dataset Detail and Data Preparation](#dataset-preparation)
+   * [Dataset Detail and Data Preparation](#dataset-detail-and-data-preparation)
    * [Training](#training)
    * [Evaluation](#evaluation)
    * [Citation](#citation)
