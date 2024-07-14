@@ -76,6 +76,29 @@
 </table>
 <hr>
 
+## Visualization: First and Last layer Spatio-Temporal Modulator
+<!--
+<p align="center">
+  <img alt="Visualization Cutting Apple" src="figs/vis/cutting_apple.png" width="900"/>
+</p>
+
+<p align="center">
+  <img alt="Visualization Scuba Diving" src="figs/vis/scuba_diving.png" width="900"/>
+</p>
+
+<p align="center">
+  <img alt="Visualization Threading Needle" src="figs/vis/threading_needle.png" width="900"/>
+</p>
+
+<p align="center">
+  <img alt="Visualization Walking the Dog" src="figs/vis/walking_the_dog.png" width="900"/>
+</p>
+
+<p align="center">
+  <img alt="Visualization Water Skiing" src="figs/vis/water_skiing.png" width="900"/>
+</p>
+-->
+
 ## Environment Setup
 Please follow [INSTALL.md](./INSTALL.md) for preparing the environement and installation of prerequisite packages.
 
