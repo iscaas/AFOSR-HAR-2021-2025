@@ -17,7 +17,7 @@
 
 ## Table of Contents
 <!--ts-->
-   * [News](#rocket-News)
+  <!-- * [News](#rocket-News) -->
    * [Overview](#overview)
    * [Visualization](#visualization-visual-illustration-of-each-scene)
    * [Environment Setup](#environment-setup)
