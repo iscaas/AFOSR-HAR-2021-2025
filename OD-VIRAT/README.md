@@ -76,7 +76,7 @@
 </table>
 <hr>
 
-## Visualization: First and Last layer Spatio-Temporal Modulator
+## Visualization: Visual Illustration of Each Scene 
 <!--
 <p align="center">
   <img alt="Visualization Cutting Apple" src="figs/vis/cutting_apple.png" width="900"/>
