@@ -18,8 +18,8 @@
    * [Visualization](#visualization-first-and-last-layer-spatio-temporal-modulator)
    * [Environment Setup](#environment-setup)
    * [Dataset Preparation](#dataset-preparation)
-   * [Evaluation](#evaluation)
    * [Training](#training)
+   * [Evaluation](#evaluation)
    * [Citation](#citation)
    * [Acknowledgements](#acknowledgements)
 <!--te-->
