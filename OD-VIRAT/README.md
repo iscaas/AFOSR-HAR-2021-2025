@@ -150,11 +150,20 @@ Scene 10     | █████ 8%        | █ 1%           | ██████
 
 <img src="Figures/bbox_per_frame_v2.png" width="800"/>
 
+## Citation
+
+<!-- If you find our work, this repository, or pretrained models useful, please consider giving a star :star: and citation.
+```bibtex
+@InProceedings{Wasim_2023_ICCV,
+    author    = {Wasim, Syed Talal and Khattak, Muhammad Uzair and Naseer, Muzammal and Khan, Salman and Shah, Mubarak and Khan, Fahad Shahbaz},
+    title     = {Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    year      = {2023},
+}
+``` -->
+
 ## Contact
 <!-- If you have any questions, please create an issue on this repository or contact at hullah2024@fau.edu. -->
 
 ## Acknowledgements
 Our code is based on [MMDetection](https://github.com/open-mmlab/mmdetection) repositoru. We thank the authors for releasing their code. If you use our code, please consider citing these works as well.
-
-
-
