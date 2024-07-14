@@ -3,8 +3,8 @@
 [Hayat Ullah](https://scholar.google.com.pk/citations?user=xnXPj0UAAAAJ&hl=en),
 [Arslan Munir](https://people.cs.ksu.edu/~amunir/)
 
-[![Website](https://img.shields.io/badge/Project-Website-87CEEB)](https://talalwasim.github.io/Video-FocalNets/)
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2307.06947)
+
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]()
 <hr />
 
 **OD-VIRAT** is an object detection benchmark developed for object detection tasks in challenging surveillance environments. This dataset is constructed from videos of the [VIRAT Ground 2.0 Dataset](https://viratdata.org/), comprising 329 surveillance video captured through stationary ground cameras mounted at significant heights (mostly atop buildings), spanning 11 distinct scenes.
