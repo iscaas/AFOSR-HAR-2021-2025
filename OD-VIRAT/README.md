@@ -1,3 +1,5 @@
+# OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments
+
 <img src="Figures/od_virat.png" width="800"/>
 
 **OD-VIRAT** is an object detection benchmark developed for object detection tasks in challenging surveillance environments. This dataset is constructed from videos of the [VIRAT Ground 2.0 Dataset](https://viratdata.org/), comprising 329 surveillance video captured through stationary ground cameras mounted at significant heights (mostly atop buildings), spanning 11 distinct scenes.
