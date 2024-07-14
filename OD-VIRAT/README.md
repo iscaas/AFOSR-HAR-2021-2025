@@ -24,6 +24,9 @@
    * [Acknowledgements](#acknowledgements)
 <!--te-->
 
+## Environment Setup
+Please follow [INSTALL.md](./INSTALL.md) for preparing the environement and installation of prerequisite packages.
+
 ## Dataset Detail and Data Preparation
 
 Please follow [DATA.md](./DATA.md) for dataset details and data preparation.
