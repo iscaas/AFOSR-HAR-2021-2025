@@ -87,48 +87,48 @@
 <!-- First row of images -->
 <div style="display: flex; justify-content: space-around;">
   <figure style="text-align: center;">
-    <img src="Figures/Scene1.jpg" width="150px" />
     <figcaption>Caption for image 1</figcaption>
+    <img src="path/to/image1.jpg" width="150px" />
   </figure>
   <figure style="text-align: center;">
-    <img src="Figures/Scene2.jpg" width="150px" />
     <figcaption>Caption for image 2</figcaption>
+    <img src="path/to/image2.jpg" width="150px" />
   </figure>
   <figure style="text-align: center;">
-    <img src="Figures/Scene3.jpg" width="150px" />
     <figcaption>Caption for image 3</figcaption>
+    <img src="path/to/image3.jpg" width="150px" />
   </figure>
   <figure style="text-align: center;">
-    <img src="Figures/Scene4.jpg" width="150px" />
     <figcaption>Caption for image 4</figcaption>
+    <img src="path/to/image4.jpg" width="150px" />
   </figure>
   <figure style="text-align: center;">
-    <img src="Figures/Scene5.jpg" width="150px" />
     <figcaption>Caption for image 5</figcaption>
+    <img src="path/to/image5.jpg" width="150px" />
   </figure>
 </div>
 
 <!-- Second row of images -->
 <div style="display: flex; justify-content: space-around; margin-top: 20px;">
   <figure style="text-align: center;">
-    <img src="Figures/Scene6.jpg" width="150px" />
     <figcaption>Caption for image 6</figcaption>
+    <img src="path/to/image6.jpg" width="150px" />
   </figure>
   <figure style="text-align: center;">
-    <img src="Figures/Scene7.jpg" width="150px" />
     <figcaption>Caption for image 7</figcaption>
+    <img src="path/to/image7.jpg" width="150px" />
   </figure>
   <figure style="text-align: center;">
-    <img src="Figures/Scene8.jpg" width="150px" />
     <figcaption>Caption for image 8</figcaption>
+    <img src="path/to/image8.jpg" width="150px" />
   </figure>
   <figure style="text-align: center;">
-    <img src="Figures/Scene9.jpg" width="150px" />
     <figcaption>Caption for image 9</figcaption>
+    <img src="path/to/image9.jpg" width="150px" />
   </figure>
   <figure style="text-align: center;">
-    <img src="Figures/Scene10.jpg" width="150px" />
     <figcaption>Caption for image 10</figcaption>
+    <img src="path/to/image10.jpg" width="150px" />
   </figure>
 </div>
 
