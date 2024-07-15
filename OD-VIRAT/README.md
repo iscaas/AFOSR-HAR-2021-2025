@@ -85,22 +85,22 @@
 ## Visualization: Visual Illustration of Each Scene 
 
 <!-- First row of images -->
-<div style="display: flex; justify-content: space-around; align="center"">
-  <img src="Figures/Scene1.jpg" width="190px" />
-  <img src="Figures/Scene2.jpg" width="190px" />
-  <img src="Figures/Scene3.jpg" width="190px" />
-  <img src="Figures/Scene4.jpg" width="190px" />
-  <img src="Figures/Scene5.jpg" width="190px" />
+<div style="display: flex; justify-content: space-around;">
+  <img src="Figures/Scene1.jpg" width="195px" />
+  <img src="Figures/Scene2.jpg" width="195px" />
+  <img src="Figures/Scene3.jpg" width="195px" />
+  <img src="Figures/Scene4.jpg" width="195px" />
+  <img src="Figures/Scene5.jpg" width="195px" />
 </div> 
 
 <!-- Second row of images -->
 <p align="center">
 <div style="display: flex; justify-content: space-around; margin-top: 20px;">
-  <img src="Figures/Scene6.jpg" width="190px" />
-  <img src="Figures/Scene7.jpg" width="190px" />
-  <img src="Figures/Scene8.jpg" width="190px" />
-  <img src="Figures/Scene9.jpg" width="190px" />
-  <img src="Figures/Scene10.jpg" width="190px" />
+  <img src="Figures/Scene6.jpg" width="195px" />
+  <img src="Figures/Scene7.jpg" width="195px" />
+  <img src="Figures/Scene8.jpg" width="195px" />
+  <img src="Figures/Scene9.jpg" width="195px" />
+  <img src="Figures/Scene10.jpg" width="195px" />
 </div> </p>
 <!--
 <p align="center">
