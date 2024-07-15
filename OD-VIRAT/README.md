@@ -88,7 +88,7 @@
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <div style="text-align: center; margin: 10px;">
     <figcaption>Caption for image 1</figcaption>
-    <img src="https://github.com/your-username/your-repository/raw/branch-name/path/to/image1.jpg" width="150px" />
+    <img src="Figures/Scene1.jpg" width="150px" />
   </div>
   <div style="text-align: center; margin: 10px;">
     <figcaption>Caption for image 2</figcaption>
