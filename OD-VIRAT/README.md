@@ -86,20 +86,50 @@
 
 <!-- First row of images -->
 <div style="display: flex; justify-content: space-around;">
-  <img src="Figures/Scene1.jpg" width="198px" />
-  <img src="Figures/Scene2.jpg" width="198px" />
-  <img src="Figures/Scene3.jpg" width="198px" />
-  <img src="Figures/Scene4.jpg" width="198px" />
-  <img src="Figures/Scene5.jpg" width="198px" />
-</div> 
+  <figure style="text-align: center;">
+    <img src="Figures/Scene1.jpg" width="150px" />
+    <figcaption>Caption for image 1</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="Figures/Scene2.jpg" width="150px" />
+    <figcaption>Caption for image 2</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="Figures/Scene3.jpg" width="150px" />
+    <figcaption>Caption for image 3</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="Figures/Scene4.jpg" width="150px" />
+    <figcaption>Caption for image 4</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="Figures/Scene5.jpg" width="150px" />
+    <figcaption>Caption for image 5</figcaption>
+  </figure>
+</div>
 
 <!-- Second row of images -->
 <div style="display: flex; justify-content: space-around; margin-top: 20px;">
-  <img src="Figures/Scene6.jpg" width="198px" />
-  <img src="Figures/Scene7.jpg" width="198px" />
-  <img src="Figures/Scene8.jpg" width="198px" />
-  <img src="Figures/Scene9.jpg" width="198px" />
-  <img src="Figures/Scene10.jpg" width="198px" />
+  <figure style="text-align: center;">
+    <img src="Figures/Scene6.jpg" width="150px" />
+    <figcaption>Caption for image 6</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="Figures/Scene7.jpg" width="150px" />
+    <figcaption>Caption for image 7</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="Figures/Scene8.jpg" width="150px" />
+    <figcaption>Caption for image 8</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="Figures/Scene9.jpg" width="150px" />
+    <figcaption>Caption for image 9</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="Figures/Scene10.jpg" width="150px" />
+    <figcaption>Caption for image 10</figcaption>
+  </figure>
 </div>
 
 <!--
