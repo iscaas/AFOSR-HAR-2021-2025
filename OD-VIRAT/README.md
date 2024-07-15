@@ -85,51 +85,49 @@
 ## Visualization: Visual Illustration of Each Scene 
 
 <!-- First row of images -->
-<div style="display: flex; justify-content: space-around;">
-  <figure style="text-align: center;">
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <div style="text-align: center; margin: 10px;">
     <figcaption>Caption for image 1</figcaption>
-    <img src="path/to/image1.jpg" width="150px" />
-  </figure>
-  <figure style="text-align: center;">
+    <img src="https://github.com/your-username/your-repository/raw/branch-name/path/to/image1.jpg" width="150px" />
+  </div>
+  <div style="text-align: center; margin: 10px;">
     <figcaption>Caption for image 2</figcaption>
-    <img src="path/to/image2.jpg" width="150px" />
-  </figure>
-  <figure style="text-align: center;">
+    <img src="https://github.com/your-username/your-repository/raw/branch-name/path/to/image2.jpg" width="150px" />
+  </div>
+  <div style="text-align: center; margin: 10px;">
     <figcaption>Caption for image 3</figcaption>
-    <img src="path/to/image3.jpg" width="150px" />
-  </figure>
-  <figure style="text-align: center;">
+    <img src="https://github.com/your-username/your-repository/raw/branch-name/path/to/image3.jpg" width="150px" />
+  </div>
+  <div style="text-align: center; margin: 10px;">
     <figcaption>Caption for image 4</figcaption>
-    <img src="path/to/image4.jpg" width="150px" />
-  </figure>
-  <figure style="text-align: center;">
+    <img src="https://github.com/your-username/your-repository/raw/branch-name/path/to/image4.jpg" width="150px" />
+  </div>
+  <div style="text-align: center; margin: 10px;">
     <figcaption>Caption for image 5</figcaption>
-    <img src="path/to/image5.jpg" width="150px" />
-  </figure>
-</div>
+    <img src="https://github.com/your-username/your-repository/raw/branch-name/path/to/image5.jpg" width="150px" />
+  </div>
 
-<!-- Second row of images -->
-<div style="display: flex; justify-content: space-around; margin-top: 20px;">
-  <figure style="text-align: center;">
+  <!-- Second row of images -->
+  <div style="text-align: center; margin: 10px;">
     <figcaption>Caption for image 6</figcaption>
-    <img src="path/to/image6.jpg" width="150px" />
-  </figure>
-  <figure style="text-align: center;">
+    <img src="https://github.com/your-username/your-repository/raw/branch-name/path/to/image6.jpg" width="150px" />
+  </div>
+  <div style="text-align: center; margin: 10px;">
     <figcaption>Caption for image 7</figcaption>
-    <img src="path/to/image7.jpg" width="150px" />
-  </figure>
-  <figure style="text-align: center;">
+    <img src="https://github.com/your-username/your-repository/raw/branch-name/path/to/image7.jpg" width="150px" />
+  </div>
+  <div style="text-align: center; margin: 10px;">
     <figcaption>Caption for image 8</figcaption>
-    <img src="path/to/image8.jpg" width="150px" />
-  </figure>
-  <figure style="text-align: center;">
+    <img src="https://github.com/your-username/your-repository/raw/branch-name/path/to/image8.jpg" width="150px" />
+  </div>
+  <div style="text-align: center; margin: 10px;">
     <figcaption>Caption for image 9</figcaption>
-    <img src="path/to/image9.jpg" width="150px" />
-  </figure>
-  <figure style="text-align: center;">
+    <img src="https://github.com/your-username/your-repository/raw/branch-name/path/to/image9.jpg" width="150px" />
+  </div>
+  <div style="text-align: center; margin: 10px;">
     <figcaption>Caption for image 10</figcaption>
-    <img src="path/to/image10.jpg" width="150px" />
-  </figure>
+    <img src="https://github.com/your-username/your-repository/raw/branch-name/path/to/image10.jpg" width="150px" />
+  </div>
 </div>
 
 <!--
