@@ -84,30 +84,14 @@
 
 ## Visualization: Visual Illustration of Each Scene 
 
-<p align="center">
-<img src="Figures/Scene1.jpg" width="190px" />
-</p>
-<p align="center">
-<img src="Figures/Scene2.jpg" width="190px" />
-</p>
-<p align="center">
-<img src="Figures/Scene3.jpg" width="190px" />
-</p>
-<p align="center">
-<img src="Figures/Scene4.jpg" width="190px" />
-</p>
-<p align="center">
-<img src="Figures/Scene5.jpg" width="190px" />
-</p>
 <!-- First row of images -->
-<p align="center">
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around; align="center"">
   <img src="Figures/Scene1.jpg" width="190px" />
   <img src="Figures/Scene2.jpg" width="190px" />
   <img src="Figures/Scene3.jpg" width="190px" />
   <img src="Figures/Scene4.jpg" width="190px" />
   <img src="Figures/Scene5.jpg" width="190px" />
-</div> </p>
+</div> 
 
 <!-- Second row of images -->
 <p align="center">
