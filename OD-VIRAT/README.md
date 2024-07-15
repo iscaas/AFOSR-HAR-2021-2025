@@ -84,9 +84,23 @@
 
 ## Visualization: Visual Illustration of Each Scene 
 
-<p align="center">
-  <img src="Figures/scene1.gif" alt="Scene 1" width="400"/> <img src="Figures/scene1.gif" alt="Scene 1" width="400"/> <img src="Figures/scene1.gif" alt="Scene 1" width="400"/>
-</p>
+<!-- First row of images -->
+<div style="display: flex; justify-content: space-around;">
+  <img src="path/to/image1.jpg" width="150px" />
+  <img src="path/to/image2.jpg" width="150px" />
+  <img src="path/to/image3.jpg" width="150px" />
+  <img src="path/to/image4.jpg" width="150px" />
+  <img src="path/to/image5.jpg" width="150px" />
+</div>
+
+<!-- Second row of images -->
+<div style="display: flex; justify-content: space-around; margin-top: 20px;">
+  <img src="path/to/image6.jpg" width="150px" />
+  <img src="path/to/image7.jpg" width="150px" />
+  <img src="path/to/image8.jpg" width="150px" />
+  <img src="path/to/image9.jpg" width="150px" />
+  <img src="path/to/image10.jpg" width="150px" />
+</div>
 <!--
 <p align="center">
   <img alt="Visualization Scuba Diving" src="figs/vis/scuba_diving.png" width="900"/>
