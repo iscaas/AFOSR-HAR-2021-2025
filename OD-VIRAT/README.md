@@ -94,7 +94,7 @@
 </div>
 
 <!-- Second row of images -->
-<div style="display: flex; justify-content: space-around; margin-top: 20px;">
+<div style="display: flex; justify-content: space-around; margin-top: 50px;">
   <img src="Figures/Scene6.jpg" width="198px" />
   <img src="Figures/Scene7.jpg" width="198px" />
   <img src="Figures/Scene8.jpg" width="198px" />
