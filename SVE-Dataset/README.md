@@ -9,7 +9,7 @@ The Dataset contains six differet soccer event classes including:
 6. Substitute
 
 Here is the link to access our newly created Soccer Videos Dataset.
-[Raw Dataset]: (https://drive.google.com/drive/folders/1PUM-h5KDHrHt6ciD32GowogLVff31vXf?usp=sharing)
+[Access Link]: (https://drive.google.com/drive/folders/1PUM-h5KDHrHt6ciD32GowogLVff31vXf?usp=sharing)
 
 ![download (1)](https://user-images.githubusercontent.com/36618567/177653161-0cb9668e-b23e-4c9f-b609-38dc4ae98d20.gif)
 ![download (2)](https://user-images.githubusercontent.com/36618567/177653179-f7ea953c-7b82-471a-aa38-17e350c1c479.gif)
