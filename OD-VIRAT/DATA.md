@@ -55,7 +55,7 @@
 
 
 > Data distribution across 10 scenes in train, validation, and test sets of **OD-Virat Large** dataset.
-
+<p align="center">
 Scenes       | Train           | Validation     | Test           |
 -------------|-----------------|----------------|----------------|
 Scene 1      | ███ 5%          | ████ 7%        | 0%             |
@@ -68,7 +68,7 @@ Scene 7      | ███████████ 27% | ████████�
 Scene 8      | ████ 6%         | ████████ 16%   | ████████ 15%   | 
 Scene 9      | ███ 5%          | ██ 3%          | ██ 4%          | 
 Scene 10     | █████ 8%        | █ 1%           | ████████ 14%   |
-
+</p>
 > Data distribution across 10 scenes in train, validation, and test sets of **OD-Virat Tiny** dataset.
 
 Scenes       | Train           | Validation     | Test           |
