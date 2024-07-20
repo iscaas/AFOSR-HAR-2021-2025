@@ -86,20 +86,20 @@
 
 <!-- First row of images -->
 <div style="display: flex; justify-content: space-around;">
-  <img src="Figures/Scene1.jpg" width="198px" />
-  <img src="Figures/Scene2.jpg" width="198px" />
-  <img src="Figures/Scene3.jpg" width="198px" />
-  <img src="Figures/Scene4.jpg" width="198px" />
-  <img src="Figures/Scene5.jpg" width="198px" />
+  <img src="Figures/image1.jpg" width="198px" />
+  <img src="Figures/image2.jpg" width="198px" />
+  <img src="Figures/image3.jpg" width="198px" />
+  <img src="Figures/image4.jpg" width="198px" />
+  <img src="Figures/image5.jpg" width="198px" />
 </div>
 
 <!-- Second row of images -->
 <div style="display: flex; justify-content: space-around; margin-top: 50px;">
-  <img src="Figures/Scene6.jpg" width="198px" />
-  <img src="Figures/Scene7.jpg" width="198px" />
-  <img src="Figures/Scene8.jpg" width="198px" />
-  <img src="Figures/Scene9.jpg" width="198px" />
-  <img src="Figures/Scene10.jpg" width="198px" />
+  <img src="Figures/image6.jpg" width="198px" />
+  <img src="Figures/image7.jpg" width="198px" />
+  <img src="Figures/image8.jpg" width="198px" />
+  <img src="Figures/image9.jpg" width="198px" />
+  <img src="Figures/image10.jpg" width="198px" />
 </div>
 
 <!--
