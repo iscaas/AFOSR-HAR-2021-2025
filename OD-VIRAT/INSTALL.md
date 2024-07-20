@@ -26,7 +26,7 @@ cd OD-VIRAT
 git clone https://github.com/open-mmlab/mmdetection.git
 ```
 
-- Install the following prerequisite libraries for  'mmdetection'.
+- Install the following prerequisite libraries for  `mmdetection`.
 ```bash
 pip install -U openmim
 mim install mmengine
