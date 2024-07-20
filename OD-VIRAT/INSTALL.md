@@ -51,3 +51,6 @@ python demo/image_demo.py demo/demo.jpg rtmdet_tiny_8xb32-300e_coco.py --weights
 ```
   
 - Install other requirements:
+```bash
+pip install numpy==1.24.3 pandas==2.0.3 opencv-python==4.7.0.72 yacs==0.1.8 PyYAML==6.0 natsort==8.4.0 pycocotools==2.0.7
+```
