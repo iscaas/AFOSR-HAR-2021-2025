@@ -10,7 +10,7 @@ cd Video-FocalNets
 - Create a conda virtual environment and activate it:
 
 ```bash
-conda create -n [env_name] python=3.10to -y
+conda create -n [env_name] python=3.10 -y
 conda activate [env_name]
 ```
 
