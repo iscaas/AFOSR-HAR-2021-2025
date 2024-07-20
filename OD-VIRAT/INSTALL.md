@@ -40,6 +40,7 @@ pip install -v -e .
 ```   
 
 - Verify the `mmdetection` installation using the following command:
+  
 **step1:** 
 ```bash
 mim download mmdet --config rtmdet_tiny_8xb32-300e_coco --dest .
