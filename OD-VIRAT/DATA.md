@@ -49,10 +49,6 @@
   </tr>
 </table>
 
-|  Splits    | Scene 1 | Scene 2 | Scene 3 | Scene 4 | Scene 5 | Scene 6 | Scene 7 | Scene 8 | Scene 9 | Scene 10 |
-|:----------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:--------:|
-|    Train   |    5%   |    5%   |    4%   |   12%   |   13%   |   15%   |   27%   |    6%   |    5%   |    8%    | 
-
 
 > Data distribution across 10 scenes in train, validation, and test sets of **OD-Virat Large** dataset.
 
