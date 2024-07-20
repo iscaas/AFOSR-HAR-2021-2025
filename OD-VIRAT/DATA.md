@@ -40,8 +40,8 @@
   <td><p align="center"><b>Scene 8</b></td>
   </tr>
   <tr>
-    <td><div><img src="Figures/scene9.gif" alt="Scene 9" width="400"></div></td>
-    <td><div><img src="Figures/scene10.gif" alt="Scene 10" width="400"></div></td>
+    <td><div><img src="Figures/scene9.gif" alt="Scene 9" width="500"></div></td>
+    <td><div><img src="Figures/scene10.gif" alt="Scene 10" width="500"></div></td>
   </tr>
   <tr>
   <td><p align="center"><b>Scene 9</b></td>
