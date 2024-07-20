@@ -8,32 +8,32 @@
 ## OD-VIRAT Scenes
 <table>
   <tr>
-    <td><div><img src="Figures/scene1.gif" alt="Scene 1" width="400"></div></td>
-    <td><div><img src="Figures/scene2.gif" alt="Scene 2" width="400"></div></td>
+    <td><div><img src="Figures/scene1.gif" alt="Scene 1" width="500"></div></td>
+    <td><div><img src="Figures/scene2.gif" alt="Scene 2" width="500"></div></td>
   </tr>
   <tr>
   <td><p align="center"><b>Scene 1</b></td>
   <td><p align="center"><b>Scene 2</b></td>
   </tr>
   <tr>
-    <td><div><img src="Figures/scene3.gif" alt="Scene 3" width="400"></div></td>
-    <td><div><img src="Figures/scene4.gif" alt="Scene 4" width="400"></div></td>
+    <td><div><img src="Figures/scene3.gif" alt="Scene 3" width="500"></div></td>
+    <td><div><img src="Figures/scene4.gif" alt="Scene 4" width="500"></div></td>
   </tr>
   <tr>
   <td><p align="center"><b>Scene 3</b></td>
   <td><p align="center"><b>Scene 4</b></td>
   </tr>
   <tr>
-    <td><div><img src="Figures/scene5.gif" alt="Scene 5" width="400"></div></td>
-    <td><div><img src="Figures/scene6.gif" alt="Scene 6" width="400"></div></td>
+    <td><div><img src="Figures/scene5.gif" alt="Scene 5" width="500"></div></td>
+    <td><div><img src="Figures/scene6.gif" alt="Scene 6" width="500"></div></td>
   </tr>
   <tr>
   <td><p align="center"><b>Scene 5</b></td>
   <td><p align="center"><b>Scene 6</b></td>
   </tr>
   <tr>
-    <td><div><img src="Figures/scene7.gif" alt="Scene 7" width="400"></div></td>
-    <td><div><img src="Figures/scene8.gif" alt="Scene 8" width="400"></div></td>
+    <td><div><img src="Figures/scene7.gif" alt="Scene 7" width="500"></div></td>
+    <td><div><img src="Figures/scene8.gif" alt="Scene 8" width="500"></div></td>
   </tr>
   <tr>
   <td><p align="center"><b>Scene 7</b></td>
