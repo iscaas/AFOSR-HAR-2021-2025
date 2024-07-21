@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="Figures/od_virat.png" width="1000"/>
-</p> 
+## OD-VIRAT Dataset
+The proposed **OD-VIRAT** dataset is the object detection variant of [VIRAT Ground 2.0 dataset](https://viratdata.org/). Originally, VIRAT Ground 2.0 dataset is developed for continuous visual event recognition tasks, comprising 329 surveillance videos captured through stationary ground cameras mounted at significant heights (mostly at the top of buildings) across 11 different scenes. The recorded scenes include construction sites, parking lots, streets, and open outdoor areas. The authors of VIRAT Ground 2.0 dataset used different models of HD video cameras to capture scenes at different resolutions (1920$\times$1080 and 1280$\times$720) and frame rates range (25$\thicksim$30 FPS).
 
-**OD-VIRAT** is an object detection benchmark developed for object detection tasks in challenging surveillance environments. This dataset is constructed from videos of the [VIRAT Ground 2.0 Dataset](https://viratdata.org/), comprising 329 surveillance video captured through stationary ground cameras mounted at significant heights (mostly atop buildings), spanning 11 distinct scenes.
-<hr>
+# OD-VIRAT Large
+
+# OD-VIRAT Tiny
 
 ## OD-VIRAT Scenes
 <table>
