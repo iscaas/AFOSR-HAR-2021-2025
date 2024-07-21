@@ -19,7 +19,7 @@ color = {
 # getting annotations
 image_ids_annotations = defaultdict(list)
 
-file = open('dataset/Large_Virat_Dataset/annotations/json_annotations/test_annotations.json')
+file = open('path_to_annotations/ann_file.json')
 anns = json.load(file)
 
 # adding to datastructure
@@ -36,7 +36,7 @@ for ann in anns['categories']:
 
 keys = list(image_ids_annotations.keys())
 
-directory_path = 'dataset/Large_Virat_Dataset/data/test/'
+directory_path = 'path_to_images/'
 # Get all file names in the directory
 image_files = natsorted(os.listdir(directory_path))
 
