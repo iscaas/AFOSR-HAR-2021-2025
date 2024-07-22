@@ -1,4 +1,4 @@
-# Human action representation learning using an attention-driven residual 3dcnn network 
+# Human Action Representation Learning Using An Attention-Driven Residual 3DCNN Network 
 [paper](https://www.mdpi.com/1999-4893/16/8/369)
 
 
