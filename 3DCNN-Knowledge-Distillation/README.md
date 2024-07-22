@@ -1,9 +1,9 @@
-# Offline Knowledge Distillation 
-A 3DCNN-Based Knowledge Distillation Framework for Human Activity Recognition [paper](https://www.mdpi.com/2313-433X/9/4/82)
+# A 3DCNN-Based Knowledge Distillation Framework for Human Activity Recognition
+[paper](https://www.mdpi.com/2313-433X/9/4/82)
 
 <img src="readme_images/framework.gif" width="800"/>
 
-## Introduction
+## Overview
 This repo contains the implementation of our proposed 3DCNN based knowledge distillation approach for human activity recognition, the prerequisite libraries, and the obtained quantiative results across different human activity recognition datasets.  
 
 ## Installation
