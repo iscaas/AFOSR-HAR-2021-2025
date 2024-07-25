@@ -1,6 +1,6 @@
 # AI-Driven Salient Soccer Events Recognition Framework for Next-Generation IoT-Enabled Environments
-<!-- [Hayat Ullah](https://scholar.google.com.pk/citations?user=xnXPj0UAAAAJ&hl=en),  -->
-<!-- [Arslan Munir](https://people.cs.ksu.edu/~amunir/) -->
+[Hayat Ullah](https://scholar.google.com.pk/citations?user=xnXPj0UAAAAJ&hl=en),  
+[Arslan Munir](https://people.cs.ksu.edu/~amunir/) 
 [![paper](https://img.shields.io/badge/IEEE|IoTJ-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/abstract/document/9530232)
 
 <hr />
