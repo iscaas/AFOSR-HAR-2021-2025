@@ -43,7 +43,7 @@ Here is the link to access our newly created Soccer Videos Dataset.
 Soon we will upload the annotated version of the dataset. 
 
 # Citation
-If you use the SVE Dataset, please cite our paper:
+If you find our work, this repository, please cite our work:
 ```
 @article{muhammad2021ai,
   title={AI-Driven Salient Soccer Events Recognition Framework for Next Generation IoT-Enabled Environments},
