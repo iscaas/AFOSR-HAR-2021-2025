@@ -1,5 +1,5 @@
 # A 3DCNN-Based Knowledge Distillation Framework for Human Activity Recognition 
-[![paper](https://img.shields.io/badge/MDPI-J.Imaging-%3CCOLOR%3E.svg)](https://www.mdpi.com/2313-433X/9/4/82)
+[![paper](https://img.shields.io/badge/MDPI|J.Imaging-Paper-%3CCOLOR%3E.svg)](https://www.mdpi.com/2313-433X/9/4/82)
 
 
 
