@@ -1,4 +1,6 @@
-# SVE-Dataset
+# AI-Driven Salient Soccer Events Recognition Framework for Next-Generation IoT-Enabled Environments
+[![paper](https://img.shields.io/badge/IEEE|IoTJ-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/abstract/document/9530232)
+
 The Dataset contains six differet soccer event classes including:
 
 1. Goal
