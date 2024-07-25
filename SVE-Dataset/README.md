@@ -1,7 +1,10 @@
 # AI-Driven Salient Soccer Events Recognition Framework for Next-Generation IoT-Enabled Environments
 [![paper](https://img.shields.io/badge/IEEE|IoTJ-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/abstract/document/9530232)
 
-The Dataset contains six differet soccer event classes including:
+<hr />
+
+> **Abstract:**
+>The salient event recognition of soccer matches in the next-generation Internet of Things (Nx-IoT) environment aims to analyze the performance of players/teams by the sports analytics and managerial staff. The embedded Nx-IoT devices carried by the soccer players during the match capture and transmit data to an artificial intelligence (AI)-assisted computing platform. The interconnectivity of data acquisition devices with an AI-assisted computing platform in the Nx-IoT environment will not only allow the spectators to track the formation of their favorite players during a soccer match but will also enable the managerial staff to evaluate the players’ performance in the soccer match as well as in practice sessions. This Nx-IoT-enabled salient event detection feature can be provided to spectators and sports’ managerial staff as a financial technology (FinTech) service. In this article, we propose an efficient deep-learning-based framework for multiperson salient soccer event recognition in IoT-enabled FinTech. The proposed framework performs event recognition in three steps: 1) frames preprocessing; 2) frame-level discriminative features extraction; and 3) high-level events recognition in soccer videos. Moreover, we introduce a new soccer video events (SVE) data set containing videos of six salient events of soccer games. To provide a strong baseline, we evaluate our newly created SVE data set using different traditional machine learning and deep learning algorithms. We also perform event recognition on untrimmed soccer videos using our proposed framework and compare the results with state-of-the-art methods. The obtained results validate the suitability of our proposed framework for salient event recognition in Nx-IoT environments.
 
 1. Goal
 2. Head Goal
