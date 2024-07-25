@@ -18,7 +18,6 @@
 ## Table of Contents
 <!--ts-->
   <!-- * [News](#rocket-News) -->
-   * [Overview](#overview)
    * [Visualization](#visualization-visual-illustration-of-each-scene)
    * [Environment Setup](#environment-setup)
    * [Dataset Detail and Data Preparation](#dataset-detail-and-data-preparation)
@@ -29,12 +28,6 @@
 <!--te-->
 
 <!-- ## News -->
-
-## Overview
-
-**OD-VIRAT** is an object detection benchmark developed for object detection tasks in challenging surveillance environments. This dataset is constructed from videos of the [VIRAT Ground 2.0 Dataset](https://viratdata.org/), comprising 329 surveillance videos captured through stationary ground cameras mounted at significant heights (mostly atop buildings), spanning 11 distinct scenes. Our motivation behind introducing OD-VIRAT dataset is based on two key aspects: (1) the existence of high-quality surveillance videos, and (2) the availability of object-level annotations. Based on the relevance between videos and their corresponding object annotations, we selected **260** videos out of **329** videos from VIRAT Ground 2.0 dataset. The remaining **69** videos are excluded as per their incorrect temporal relation between objects and their annotations. The retrieved **260** videos contain visuals of **10** distinct scenes, which are subsequently divided into three sets: **train**, **validation**, and **test** set. The train set contains **156** videos whereas the validation and test sets contain **52** videos each, respectively. It is worth mentioning here that, the train and validation sets consist of **10** scenes each, while the test set contains **8** scenes. As per requirement of the object detection task, we converted each set (including training, validation, and test) of videos into frames with two different frame-skip strategies that include 0 frame-skip and 30 frame-skip strategy. The 0 frame-skip strategy is used to create OD-VIRAT Large dataset, whereas 30 frame-skip is adopted to create OD-VIRAT Tiny dataset. Detailed information of both variants can be found in [DATA.md](./DATA.md).
-<hr>
-
 
 ## Visualization: Visual Illustration of Each Scene 
 
