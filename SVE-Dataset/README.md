@@ -6,7 +6,9 @@
 [Arslan Munir](https://scholar.google.com.pk/citations?user=-P9waaQAAAAJ&hl=en),
 [Muhammad Sajjad](https://scholar.google.com.pk/citations?user=E4-dElIAAAAJ&hl=en), 
 [Victor Hugo C. de Albuquerque](https://scholar.google.com.pk/citations?user=meI2k88AAAAJ&hl=en) 
+
 *Joint first authors
+
 [![paper](https://img.shields.io/badge/IEEE|IoTJ-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/abstract/document/9530232)
 
 <hr />
