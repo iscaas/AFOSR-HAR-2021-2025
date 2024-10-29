@@ -5,6 +5,7 @@
 # OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments
 
 [Hayat Ullah](https://scholar.google.com.pk/citations?user=xnXPj0UAAAAJ&hl=en),
+[Abbas Khan](https://scholar.google.com.pk/citations?user=k-HJxNAAAAAJ&hl=en&oi=sra),
 [Arslan Munir](https://people.cs.ksu.edu/~amunir/)
 
 
