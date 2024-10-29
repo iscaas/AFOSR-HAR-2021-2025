@@ -6,7 +6,7 @@
 
 [Hayat Ullah](https://scholar.google.com.pk/citations?user=xnXPj0UAAAAJ&hl=en),
 [Abbas Khan](https://scholar.google.com.pk/citations?user=k-HJxNAAAAAJ&hl=en&oi=sra),
-[Arslan Munir](https://people.cs.ksu.edu/~amunir/)
+[Arslan Munir](https://scholar.google.com.pk/citations?user=-P9waaQAAAAJ&hl=en)
 
 
 [![paper](https://img.shields.io/badge/ACM-Paper-<COLOR>.svg)]()
