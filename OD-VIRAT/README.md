@@ -9,7 +9,7 @@
 <!-- [Arslan Munir](https://people.cs.ksu.edu/~amunir/) -->
 
 
-[![paper](https://img.shields.io/badge/IEEE-Paper-<COLOR>.svg)]()
+[![paper](https://img.shields.io/badge/ACM-Paper-<COLOR>.svg)]()
 <hr />
 
 > **Abstract:**
