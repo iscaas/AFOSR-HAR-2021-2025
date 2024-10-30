@@ -78,6 +78,10 @@ Please follow [DATA.md](./DATA.md) for dataset details and data preparation.
 ```bash
 sbatch --mem=30G --time=40:00:00 --constraint="warlocks|wizards" --gres=gpu:1 --nodes=1 trainer.sh config
 ```
+Or
+```bash
+--launcher slurm --mem=30G --time=40:00:00 --constraint="warlocks|wizards" --gres=gpu:1 --nodes=1 trainer.sh config
+```
 - ```sbatch```: Submits the job to the SLURM scheduler.
 - ```--mem=30G```: Requests 30 GB of memory for the job.
 - ```--time=40:00:00```: Sets a maximum job run time of 40 hours.
