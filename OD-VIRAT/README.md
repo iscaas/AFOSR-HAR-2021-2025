@@ -74,7 +74,7 @@ Please follow [INSTALL.md](./INSTALL.md) for preparing the environement and inst
 Please follow [DATA.md](./DATA.md) for dataset details and data preparation.
 
 ## Training
-
+To train a specific model on the OD-VIRAT Tiny dataset, run the following command:
 ```bash
 sbatch --mem=30G --time=40:00:00 --gres=gpu:1 --nodes=1 trainer.sh config
 ```
