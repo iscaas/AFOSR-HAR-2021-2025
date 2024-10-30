@@ -102,7 +102,7 @@ For example, to train the ```Deformable-Detr``` with ResNet50 backbone on ```OD-
 ```bash
 sbatch --mem=30G --time=40:00:00 --gres=gpu:1 --nodes=1 trainer.sh configs/deformable_detr/deformable-detr-refine-twostage_r50_16xb2-50e_coco_virat_bs64.py
 ```
-
+- ```configs/deformable_detr/deformable-detr-refine-twostage_r50_16xb2-50e_coco_virat_bs64.py```: the python file containing the model-specificaiton, data loaders, and training protocols. For instance, in this case the model set to be trained is Deformable Detr (two-stage refinement variant) with ResNet50 backbone with batch size 64 for 50 epochs on OD-VIRAT Tiny dataset.
 <!--
 To train a Video-FocalNet on a video dataset from scratch, run:
 
