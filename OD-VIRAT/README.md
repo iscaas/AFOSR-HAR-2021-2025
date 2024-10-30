@@ -6,9 +6,9 @@
 [Hayat Ullah](https://scholar.google.com.pk/citations?user=xnXPj0UAAAAJ&hl=en),
 [Abbas Khan](https://scholar.google.com.pk/citations?user=k-HJxNAAAAAJ&hl=en&oi=sra),
 [Arslan Munir](https://scholar.google.com.pk/citations?user=-P9waaQAAAAJ&hl=en)
-Submitted to [ACM TOMM]
 
-[![paper](https://img.shields.io/badge/ACM-TOMM-<COLOR>.svg)]()
+
+[![paper](https://img.shields.io/badge/ACM-TOMM-<COLOR>.svg)]() [Under Review]
 <hr />
 
 > **Abstract:**
