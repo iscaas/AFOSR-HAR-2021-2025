@@ -130,6 +130,10 @@ Additionally, the TRAIN.PRETRAINED_PATH can be set (either in the config file or
 
 ## Evaluation
 To test/evaluate a pre-trained model on the test set of OD-VIRAT Tiny dataset, run the following command:
+```bash
+sbatch --mem=30G --time=40:00:00 --gres=gpu:1 --nodes=1 eval.sh config
+```
+The rest of the arugments are same except ```eval.sh```, taking ```config``` (containing model evaluation configurations) as an input argument. The ```eval.sh``` evaluate the model using the configurations given in the input configuration file (i.e., evaluation protocols, path to test data, and the evaluation metrics.)
 <!--
 To evaluate pre-trained Video-FocalNets on your dataset:
 
