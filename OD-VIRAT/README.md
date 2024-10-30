@@ -87,7 +87,7 @@ Or
 - ```--time=40:00:00```: Sets a maximum job run time of 40 hours.
 - ```--gres=gpu:1```: Requests 1 GPU for the job.
 - ```--nodes=1```: Allocates 1 node for the job.
-- ```trainer.sh config```: Runs the trainer.sh script with config as an argument.
+- ```trainer.sh config```: Runs the ```trainer.sh``` script with ```config``` as an argument.
    
 <!--
 To train a Video-FocalNet on a video dataset from scratch, run:
