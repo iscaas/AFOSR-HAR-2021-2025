@@ -98,6 +98,7 @@ sbatch --mem=30G --time=40:00:00 --gres=gpu:1 --nodes=1 trainer.sh config
 - ```trainer.sh config```: Runs the ```trainer.sh``` script with ```config``` as an argument.
 
 For example, to train the ```Video-FocalNet-B``` with a single GPU on ```OD-VIRAT Tiny```:
+
 For example, to train the **Video-FocalNet-B** with a single GPU on **OD-VIRAT Tiny**:
 
 <!--
