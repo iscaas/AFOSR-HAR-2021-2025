@@ -79,6 +79,14 @@ Please follow [DATA.md](./DATA.md) for dataset details and data preparation.
 sbatch --mem=30G --time=40:00:00 --constraint="warlocks|wizards" --gres=gpu:1 --nodes=1 trainer.sh config
 ```
 - ```sbatch```: Submits the job to the SLURM scheduler.
+- ```--mem=30G```: Requests 30 GB of memory for the job.
+- ```--time=40:00:00```: Sets a maximum job run time of 40 hours.
+- ```--constraint="warlocks|wizards"```: Specifies the job should run on nodes with the "warlocks" or "wizards" feature.
+- ```--gres=gpu:1```: Requests 1 GPU for the job.
+- ```--nodes=1```: Allocates 1 node for the job.
+- ```--nodes=1```: Allocates 1 node for the job.
+- ```trainer.sh config```: Runs the trainer.sh script with config as an argument.
+   
 <!--
 To train a Video-FocalNet on a video dataset from scratch, run:
 
