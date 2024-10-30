@@ -114,6 +114,7 @@ conda activate 'env_name'
 
 time python tools/train.py $config
 ```
+The ```$config``` contains ```deformable-detr-refine-twostage_r50_16xb2-50e_coco_virat_bs64.py``` which serves as an input argument to ```tools/train.py``` file.
 <!--
 To train a Video-FocalNet on a video dataset from scratch, run:
 
