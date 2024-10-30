@@ -100,7 +100,7 @@ sbatch --mem=30G --time=40:00:00 --gres=gpu:1 --nodes=1 trainer.sh config
 For example, to train the ```Deformable-Detr``` with ResNet50 backbone on ```OD-VIRAT Tiny``` using single ```GPU```:
 
 ```bash
-sbatch --mem=30G --time=40:00:00 --gres=gpu:1 --nodes=1 trainer.sh deformable-detr-refine-twostage_r50_16xb2-50e_coco_virat_bs64.py
+sbatch --mem=30G --time=40:00:00 --gres=gpu:1 --nodes=1 trainer.sh configs/deformable_detr/deformable-detr-refine-twostage_r50_16xb2-50e_coco_virat_bs64.py
 ```
 
 <!--
