@@ -121,12 +121,22 @@ To test/evaluate a pre-trained model on the test set of OD-VIRAT Tiny dataset, r
 ```bash
 sbatch --mem=30G --time=01:00:00 --gres=gpu:1 --nodes=1 eval.sh config
 ```
-The rest of the arugments are same except ```eval.sh```, taking ```config``` (containing model evaluation configurations) as an input argument. The ```eval.sh``` evaluate the model using the configurations given in the input configuration file (i.e., evaluation protocols, path to test data, and the evaluation metrics.)
+The rest of the arugments are same except ```eval.sh```, taking ```config``` (containing model evaluation configurations) as an input argument. The ```eval.sh``` evaluate the model using the configurations given in the input configuration file (i.e., evaluation protocols, path to test data, evaluation metrics, and the checkpoints of the pre-trained model.)
 For example, to evaluate the pre-trained Deformable Detr (two-stage refinement variant) on the test set of OD-VIRAT Tiny dataset, run the following command:
 ```
 sbatch --mem=30G --time=01:00:00 --gres=gpu:1 --nodes=1 eval.sh configs/deformable_detr/deformable-detr-refine-twostage_r50_16xb2-50e_coco_virat_bs64_eval.py
 ```
-The ```deformable-detr-refine-twostage_r50_16xb2-50e_coco_virat_bs64_eval.py``` 
+The ```deformable-detr-refine-twostage_r50_16xb2-50e_coco_virat_bs64_eval.py``` provides the configuration as mentioned above for the evaluation of ```deformable-detr-refine-twostage_r50``` model on OD-VIRAT Tiny dataset, as follows:
+```
+#!/bin/bash
+echo $config 
+
+eval "$(conda shell.bash hook)" # Initialize the shell to use Conda
+conda info --envs               # list all conda envs available
+conda activate 'env_name'
+
+time python tools/train.py $config
+```
 
 <!--
 To evaluate pre-trained Video-FocalNets on your dataset:
