@@ -78,6 +78,7 @@ Please follow [DATA.md](./DATA.md) for dataset details and data preparation.
 ```bash
 sbatch --mem=30G --time=40:00:00 --constraint="warlocks|wizards" --gres=gpu:1 --nodes=1 trainer.sh config
 ```
+- ```sbatch```: Submits the job to the SLURM scheduler.
 <!--
 To train a Video-FocalNet on a video dataset from scratch, run:
 
