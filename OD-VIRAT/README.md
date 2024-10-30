@@ -103,7 +103,17 @@ For example, to train the ```Deformable-Detr``` with ResNet50 backbone on ```OD-
 sbatch --mem=30G --time=40:00:00 --gres=gpu:1 --nodes=1 trainer.sh configs/deformable_detr/deformable-detr-refine-twostage_r50_16xb2-50e_coco_virat_bs64.py
 ```
 - ```configs/deformable_detr/deformable-detr-refine-twostage_r50_16xb2-50e_coco_virat_bs64.py```: the python file containing the model-specificaiton, data loaders, and training protocols. For instance, in this case the model set to be trained is Deformable Detr (two-stage refinement variant) with ResNet50 backbone with batch size 64 for 50 epochs on OD-VIRAT Tiny dataset.
-- ```trainer.sh```: is a bash file that takes ```configs/deformable_detr/deformable-detr-refine-twostage_r50_16xb2-50e_coco_virat_bs64.py``` as an input argument and pass it to ```tools/train.py``` file.
+- ```trainer.sh```: is a bash file that takes ```configs/deformable_detr/deformable-detr-refine-twostage_r50_16xb2-50e_coco_virat_bs64.py``` as an input argument and pass it to ```tools/train.py``` file, as follows:
+```
+#!/bin/bash
+echo $config 
+
+eval "$(conda shell.bash hook)" # Initialize the shell to use Conda
+conda info --envs               # list all conda envs available
+conda activate 'env_name'
+
+time python tools/train.py $config
+```
 <!--
 To train a Video-FocalNet on a video dataset from scratch, run:
 
