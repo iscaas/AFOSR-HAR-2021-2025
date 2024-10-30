@@ -3,11 +3,10 @@
 </p> 
 
 # OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments
-Submitted to [ACM TOMM]
 [Hayat Ullah](https://scholar.google.com.pk/citations?user=xnXPj0UAAAAJ&hl=en),
 [Abbas Khan](https://scholar.google.com.pk/citations?user=k-HJxNAAAAAJ&hl=en&oi=sra),
 [Arslan Munir](https://scholar.google.com.pk/citations?user=-P9waaQAAAAJ&hl=en)
-
+Submitted to [ACM TOMM]
 
 [![paper](https://img.shields.io/badge/ACM-Paper-<COLOR>.svg)]()
 <hr />
