@@ -84,7 +84,6 @@ sbatch --mem=30G --time=40:00:00 --constraint="warlocks|wizards" --gres=gpu:1 --
 - ```--constraint="warlocks|wizards"```: Specifies the job should run on nodes with the "warlocks" or "wizards" feature.
 - ```--gres=gpu:1```: Requests 1 GPU for the job.
 - ```--nodes=1```: Allocates 1 node for the job.
-- ```--nodes=1```: Allocates 1 node for the job.
 - ```trainer.sh config```: Runs the trainer.sh script with config as an argument.
    
 <!--
