@@ -8,7 +8,7 @@
 [Arslan Munir](https://scholar.google.com.pk/citations?user=-P9waaQAAAAJ&hl=en)
 
 
-[![paper](https://img.shields.io/badge/ACM-TOMM-<COLOR>.svg)]() [Under Review]
+[![paper](https://img.shields.io/badge/ACM-TOMM-<COLOR>.svg)]() [**Under Review**]
 <hr />
 
 > **Abstract:**
