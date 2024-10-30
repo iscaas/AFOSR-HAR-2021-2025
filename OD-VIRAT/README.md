@@ -85,7 +85,7 @@ sbatch --mem=30G --time=40:00:00 --gres=gpu:1 --nodes=1 trainer.sh config
 - ```--nodes=1```: Allocates 1 node for the job.
 - ```trainer.sh config```: Runs the ```trainer.sh``` script with ```config``` as an argument.
   
-Or
+**Or**
 
 ```bash
 --launcher slurm --mem=30G --time=40:00:00 --gres=gpu:1 --nodes=1 trainer.sh config
