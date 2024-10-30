@@ -96,7 +96,9 @@ sbatch --mem=30G --time=40:00:00 --gres=gpu:1 --nodes=1 trainer.sh config
 - ```--gres=gpu:1```: Requests 1 GPU for the job.
 - ```--nodes=1```: Allocates 1 node for the job.
 - ```trainer.sh config```: Runs the ```trainer.sh``` script with ```config``` as an argument.
-   
+
+For example, to train the Video-FocalNet-B with a single GPU on OD-VIRAT Tiny:
+
 <!--
 To train a Video-FocalNet on a video dataset from scratch, run:
 
