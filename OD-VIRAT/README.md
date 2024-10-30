@@ -135,7 +135,7 @@ eval "$(conda shell.bash hook)" # Initialize the shell to use Conda
 conda info --envs               # list all conda envs available
 conda activate 'env_name'
 
-time python tools/train.py $config
+time python tools/test.py $config
 ```
 
 <!--
