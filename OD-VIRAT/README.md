@@ -97,9 +97,11 @@ sbatch --mem=30G --time=40:00:00 --gres=gpu:1 --nodes=1 trainer.sh config
 - ```--nodes=1```: Allocates 1 node for the job.
 - ```trainer.sh config```: Runs the ```trainer.sh``` script with ```config``` as an argument.
 
-For example, to train the ```Video-FocalNet-B``` with a single GPU on ```OD-VIRAT Tiny```:
+For example, to train the ```Deformable-Detr``` with ResNet50 backbone on ```OD-VIRAT Tiny``` using single ```GPU```:
 
-For example, to train the **Video-FocalNet-B** with a single GPU on **OD-VIRAT Tiny**:
+```bash
+sbatch --mem=30G --time=40:00:00 --gres=gpu:1 --nodes=1 trainer.sh deformable-detr-refine-twostage_r50_16xb2-50e_coco_virat_bs64.py
+```
 
 <!--
 To train a Video-FocalNet on a video dataset from scratch, run:
