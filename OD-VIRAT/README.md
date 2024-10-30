@@ -90,7 +90,7 @@ sbatch --mem=30G --time=40:00:00 --gres=gpu:1 --nodes=1 trainer.sh config
 ```bash
 --launcher slurm --mem=30G --time=40:00:00 --gres=gpu:1 --nodes=1 trainer.sh config
 ```
-- ```--launcher```: Submits the job to the SLURM scheduler.
+- ```--launcher```: Provide the job scheduler (i.e., ```pytorch```, ```slurm```, and ```mpi```). In our case, we used ```slurm``` for job sumission.
 - ```--mem=30G```: Requests 30 GB of memory for the job.
 - ```--time=40:00:00```: Sets a maximum job run time of 40 hours.
 - ```--gres=gpu:1```: Requests 1 GPU for the job.
