@@ -97,7 +97,7 @@ sbatch --mem=30G --time=40:00:00 --gres=gpu:1 --nodes=1 trainer.sh config
 - ```--nodes=1```: Allocates 1 node for the job.
 - ```trainer.sh config```: Runs the ```trainer.sh``` script with ```config``` as an argument.
 
-For example, to train the ```Deformable-Detr``` with ResNet50 backbone on ```OD-VIRAT Tiny``` using single ```GPU```:
+For example, to train the ```Deformable-Detr``` with ResNet50 backbone on ```OD-VIRAT Tiny``` using single ```GPU```, run the following command:
 
 ```bash
 sbatch --mem=30G --time=40:00:00 --gres=gpu:1 --nodes=1 trainer.sh configs/deformable_detr/deformable-detr-refine-twostage_r50_16xb2-50e_coco_virat_bs64.py
@@ -134,6 +134,7 @@ To test/evaluate a pre-trained model on the test set of OD-VIRAT Tiny dataset, r
 sbatch --mem=30G --time=40:00:00 --gres=gpu:1 --nodes=1 eval.sh config
 ```
 The rest of the arugments are same except ```eval.sh```, taking ```config``` (containing model evaluation configurations) as an input argument. The ```eval.sh``` evaluate the model using the configurations given in the input configuration file (i.e., evaluation protocols, path to test data, and the evaluation metrics.)
+For example, to evaluate the pre-trained Deformable Detr (two-stage refinement variant) on the test set of OD-VIRAT Tiny dataset, run the following command:
 <!--
 To evaluate pre-trained Video-FocalNets on your dataset:
 
