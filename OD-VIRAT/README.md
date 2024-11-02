@@ -14,6 +14,10 @@
 > **Abstract:**
 >Realistic human surveillance datasets are crucial for training and evaluating computer vision models under real-world conditions, facilitating the development of robust algorithms for human and human-interacting object detection in complex environments. These datasets need to offer diverse and challenging data to enable a comprehensive assessment of model performance and the creation of more reliable surveillance systems for public safety. To this end, we present two visual object detection benchmarks named OD-VIRAT Large and OD-VIRAT Tiny, aiming at advancing visual understanding tasks in surveillance imagery. The video sequences in both benchmarks cover 10 different scenes of human surveillance recorded from significant height and distance. The proposed benchmarks offer rich annotations of bounding boxes and categories, where OD-VIRAT Large has 8.7 million annotated instances in 599,996 images and OD-VIRAT Tiny has 288,901 annotated instances in 19,860 images. This work also focuses on benchmarking state-of-the-art object detection architectures, including RETMDET, YOLOX, RetinaNet, DETR, and Deformable-DETR on this object detection-specific variant of VIRAT dataset. To the best of our knowledge, it is the first work to examine the performance of these recently published state-of-the-art object detection architectures on realistic surveillance imagery under challenging conditions such as complex backgrounds, occluded objects, and small-scale objects. The proposed benchmarking and experimental settings will help in providing insights concerning the performance of selected object detection models and set the base for developing more efficient and robust object detection architectures.
 
+<div align="center">
+  <img src="Figures/performance_vs_complexity.png" alt="Image" width="500"/>
+</div>
+
 ## Table of Contents
 <!--ts-->
   <!-- * [News](#rocket-News) -->
@@ -138,8 +142,6 @@ conda activate 'env_name'
 time python tools/test.py $config
 ```
 The ```$config``` contains ```deformable-detr-refine-twostage_r50_16xb2-50e_coco_virat_bs64_eval.py``` which serves as an input argument to ```tools/test.py``` file.
-
-<img src="Figures/performance_vs_complexity.png" width="500"/>
 
 <img src="Figures/convergence_figures/rtmdet_loss_graph.png" width="330"/> <img src="Figures/convergence_figures/yolox_loss_graph.png" width="330"/> <img src="Figures/convergence_figures/retinanet_loss_graph.png" width="330"/>
 <img src="Figures/convergence_figures/Detr_loss_graph.png" width="450"/> <img src="Figures/convergence_figures/deformable_detr_loss_graph.png" width="450"/> 
