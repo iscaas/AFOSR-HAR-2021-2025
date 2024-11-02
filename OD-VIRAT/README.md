@@ -149,9 +149,9 @@ The ```$config``` contains ```deformable-detr-refine-twostage_r50_16xb2-50e_coco
 <img src="Figures/convergence_figures/Detr_loss_graph.png" width="450"/> <img src="Figures/convergence_figures/deformable_detr_loss_graph.png" width="450"/> 
 
 <p align="center">
-  <img src="link_to_figure1.png" alt="Figure 1" width="200" />
-  <img src="link_to_figure2.png" alt="Figure 2" width="200" />
-  <img src="link_to_figure3.png" alt="Figure 3" width="200" />
+  <img src="Figures/convergence_figures/rtmdet_loss_graph.png" alt="Figure 1" width="200" />
+  <img src="Figures/convergence_figures/yolox_loss_graph.png" alt="Figure 2" width="200" />
+  <img src="Figures/convergence_figures/retinanet_loss_graph.png" alt="Figure 3" width="200" />
 </p>
 <p align="center">
   <caption>Figure 1: Description of figure 1.</caption><br>
@@ -160,8 +160,8 @@ The ```$config``` contains ```deformable-detr-refine-twostage_r50_16xb2-50e_coco
 </p>
 
 <p align="center">
-  <img src="link_to_figure4.png" alt="Figure 4" width="200" />
-  <img src="link_to_figure5.png" alt="Figure 5" width="200" />
+  <img src="Figures/convergence_figures/Detr_loss_graph.png" alt="Figure 4" width="200" />
+  <img src="Figures/convergence_figures/deformable_detr_loss_graph.png" alt="Figure 5" width="200" />
 </p>
 <p align="center">
   <caption>Figure 4: Description of figure 4.</caption><br>
