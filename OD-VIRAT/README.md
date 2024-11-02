@@ -147,32 +147,6 @@ The ```$config``` contains ```deformable-detr-refine-twostage_r50_16xb2-50e_coco
 <img src="Figures/convergence_figures/rtmdet_loss_graph.png" width="330"/> <img src="Figures/convergence_figures/yolox_loss_graph.png" width="330"/> <img src="Figures/convergence_figures/retinanet_loss_graph.png" width="330"/>
 <img src="Figures/convergence_figures/Detr_loss_graph.png" width="450"/> <img src="Figures/convergence_figures/deformable_detr_loss_graph.png" width="450"/> 
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
-  <div style="text-align: center; width: 200px;">
-    <img src="Figures/convergence_figures/figure1.png" width="200"/>
-    <p><strong>Figure 1 Caption</strong></p>
-  </div>
-  <div style="text-align: center; width: 200px;">
-    <img src="Figures/convergence_figures/figure2.png" width="200"/>
-    <p><strong>Figure 2 Caption</strong></p>
-  </div>
-  <div style="text-align: center; width: 200px;">
-    <img src="Figures/convergence_figures/figure3.png" width="200"/>
-    <p><strong>Figure 3 Caption</strong></p>
-  </div>
-</div>
-
-<!-- Second row with two images -->
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <div style="text-align: center; width: 200px;">
-    <img src="Figures/convergence_figures/figure4.png" width="200"/>
-    <p><strong>Figure 4 Caption</strong></p>
-  </div>
-  <div style="text-align: center; width: 200px;">
-    <img src="Figures/convergence_figures/figure5.png" width="200"/>
-    <p><strong>Figure 5 Caption</strong></p>
-  </div>
-</div>
 
 ## Citation
 Will be updated upon publication.
