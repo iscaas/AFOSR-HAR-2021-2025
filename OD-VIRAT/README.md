@@ -17,6 +17,7 @@
 <div align="center">
   <img src="Figures/performance_vs_complexity.png" alt="Image" width="1000"/>
 </div>
+<p>Model Complexity vs Accuracy (mAP) trade-off comparison: We evaluate the performance of five main-stream object detection architectures on OD-VIRAT Tiny dataset and compared the obtained mAP values against model complexities (# of parameters). The Deformable-DETR architecture with resnet50 backbone outperform other counterparts by obtaining the best mAP value.</p>
 
 ## Table of Contents
 <!--ts-->
