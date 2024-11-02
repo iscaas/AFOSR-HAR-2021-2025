@@ -139,7 +139,21 @@ time python tools/test.py $config
 ```
 The ```$config``` contains ```deformable-detr-refine-twostage_r50_16xb2-50e_coco_virat_bs64_eval.py``` which serves as an input argument to ```tools/test.py``` file.
 
-
+| Model  | UCF11 | UCF50| HMDB51 | UCF101 |                                  
+| ------------- | ------------- | ------------- | ------------- | ------------- |               
+| Student w/o KD | 88.71 | 95.81 | 88.24 | 93.74 |                           
+| TFS Teacher | 95.86 | 96.40 | 90.67 | 95.04 |
+| TUTL Teacher | 99.70 | 98.37 | 93.10 | 98.83 |
+| Student<sub>3DCNN</sub>-TFS (T=1) | 95.73| 96.25 | 88.62 | 95.11 |
+| Student<sub>3DCNN</sub>-TFS (T=5) | 96.84 | 96.70 | 88.25 | 95.64 |
+| Student<sub>3DCNN</sub>-TFS (T=10) | 97.56 | 97.60 | 91.55 | 96.73 |
+| Student<sub>3DCNN</sub>-TFS (T=15) | 96.43 | 96.91 | 87.22 | 96.11 |
+| Student<sub>3DCNN</sub>-TFS (T=20) | 96.58 | 97.21 | 86.92 | 96.20 |
+| Student<sub>3DCNN</sub>-TUTL (T=1) | 95.12 | 96.65 | 89.80 | 96.24 |
+| Student<sub>3DCNN</sub>-TUTL (T=5) | 97.45 | 97.15 | 89.14 | 96.80 |
+| Student<sub>3DCNN</sub>-TUTL (T=10) | 98.78 | 97.71 | 92.89 | 97.36 |
+| Student<sub>3DCNN</sub>-TUTL (T=15) | 98.17 | 97.53 | 89.43 | 96.58 |
+| Student<sub>3DCNN</sub>-TUTL (T=20) | 97.88 | 97.64 | 89.66 | 95.90 |
 ## Citation
 Will be updated upon publication.
 
