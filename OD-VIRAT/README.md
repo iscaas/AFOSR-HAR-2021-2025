@@ -148,32 +148,16 @@ The ```$config``` contains ```deformable-detr-refine-twostage_r50_16xb2-50e_coco
 <img src="Figures/convergence_figures/rtmdet_loss_graph.png" width="330"/> <img src="Figures/convergence_figures/yolox_loss_graph.png" width="330"/> <img src="Figures/convergence_figures/retinanet_loss_graph.png" width="330"/>
 <img src="Figures/convergence_figures/Detr_loss_graph.png" width="450"/> <img src="Figures/convergence_figures/deformable_detr_loss_graph.png" width="450"/> 
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
-  <div style="text-align: center;">
-    <img src="Figures/convergence_figures/rtmdet_loss_graph.png" width="330"/>
-    <p><strong>RTMDet Loss Graph</strong></p>
-  </div>
-  <div style="text-align: center;">
-    <img src="Figures/convergence_figures/yolox_loss_graph.png" width="330"/>
-    <p><strong>YOLOX Loss Graph</strong></p>
-  </div>
-  <div style="text-align: center;">
-    <img src="Figures/convergence_figures/retinanet_loss_graph.png" width="330"/>
-    <p><strong>RetinaNet Loss Graph</strong></p>
-  </div>
-</div>
+<figure style="text-align: center;">
+  <img src="Figures/convergence_figures/rtmdet_loss_graph.png" width="330"/>
+  <figcaption><strong>RTMDet Loss Graph</strong></figcaption>
+</figure>
 
-<!-- Second row with two images -->
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <div style="text-align: center;">
-    <img src="Figures/convergence_figures/Detr_loss_graph.png" width="450"/>
-    <p><strong>DETR Loss Graph</strong></p>
-  </div>
-  <div style="text-align: center;">
-    <img src="Figures/convergence_figures/deformable_detr_loss_graph.png" width="450"/>
-    <p><strong>Deformable DETR Loss Graph</strong></p>
-  </div>
-</div>
+<figure style="text-align: center;">
+  <img src="Figures/convergence_figures/rtmdet_loss_graph.png" width="330"/>
+  <figcaption><strong>RTMDet Loss Graph</strong></figcaption>
+</figure>
+
 
 ## Visual Results
 <div align="center">
