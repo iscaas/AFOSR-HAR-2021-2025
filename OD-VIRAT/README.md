@@ -154,7 +154,7 @@ The ```$config``` contains ```deformable-detr-refine-twostage_r50_16xb2-50e_coco
 <p><strong>Visual comparative analysis</strong> of selected object detection models on five test images. (a) <strong>RTMDET</strong>, (b) <strong>YOLOX</strong>, (c) <strong>RetinaNet</strong>, (d) <strong>DETR</strong>, and (e) <strong>Deformable-DETR</strong>.</p>
 
 <div align="center">
-  <img src="Figures/cmp_visual_results.png" alt="Image" width="1000"/>
+  <img src="Figures/cmp_visual_results.png" alt="Image" width="1000"/> 
 </div>
 <p><strong>Model Complexity vs Accuracy (mAP)</strong> trade-off comparison: We evaluate the performance of five main-stream object detection architectures on <strong>OD-VIRAT Tiny</strong> dataset and compared the obtained mAP values against model complexities <strong>(# of parameters)</strong>. The <strong>Deformable-DETR architecture with resnet50 backbone</strong> outperform other counterparts by obtaining the best mAP value.</p>
 
