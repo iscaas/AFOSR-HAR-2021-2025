@@ -149,23 +149,32 @@ The ```$config``` contains ```deformable-detr-refine-twostage_r50_16xb2-50e_coco
 <img src="Figures/convergence_figures/Detr_loss_graph.png" width="450"/> <img src="Figures/convergence_figures/deformable_detr_loss_graph.png" width="450"/> 
 
 <p align="center">
-  <img src="Figures/convergence_figures/rtmdet_loss_graph.png" alt="Figure 1" width="330" />
-  <img src="Figures/convergence_figures/yolox_loss_graph.png" alt="Figure 2" width="330" />
-  <img src="Figures/convergence_figures/retinanet_loss_graph.png" alt="Figure 3" width="330" />
-</p>
-<p align="center">
-  <caption>Figure 1: Description of figure 1.</caption><br>
-  <caption>Figure 2: Description of figure 2.</caption><br>
-  <caption>Figure 3: Description of figure 3.</caption>
+  <div style="display: inline-block; text-align: center;">
+    <img src="Figures/convergence_figures/rtmdet_loss_graph.png" alt="Figure 1" width="200" /><br>
+    <span>Figure 1: Description of figure 1.</span>
+  </div>
+  
+  <div style="display: inline-block; text-align: center;">
+    <img src="Figures/convergence_figures/yolox_loss_graph.png" alt="Figure 2" width="200" /><br>
+    <span>Figure 2: Description of figure 2.</span>
+  </div>
+  
+  <div style="display: inline-block; text-align: center;">
+    <img src="Figures/convergence_figures/retinanet_loss_graph.png" alt="Figure 3" width="200" /><br>
+    <span>Figure 3: Description of figure 3.</span>
+  </div>
 </p>
 
 <p align="center">
-  <img src="Figures/convergence_figures/Detr_loss_graph.png" alt="Figure 4" width="450" />
-  <img src="Figures/convergence_figures/deformable_detr_loss_graph.png" alt="Figure 5" width="450" />
-</p>
-<p align="center">
-  <caption>Figure 4: Description of figure 4.</caption><br>
-  <caption>Figure 5: Description of figure 5.</caption>
+  <div style="display: inline-block; text-align: center;">
+    <img src="Figures/convergence_figures/Detr_loss_graph.png" alt="Figure 4" width="200" /><br>
+    <span>Figure 4: Description of figure 4.</span>
+  </div>
+  
+  <div style="display: inline-block; text-align: center;">
+    <img src="Figures/convergence_figures/deformable_detr_loss_graph.png" alt="Figure 5" width="200" /><br>
+    <span>Figure 5: Description of figure 5.</span>
+  </div>
 </p>
 
 
