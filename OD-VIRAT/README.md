@@ -148,38 +148,6 @@ The ```$config``` contains ```deformable-detr-refine-twostage_r50_16xb2-50e_coco
 <img src="Figures/convergence_figures/rtmdet_loss_graph.png" width="330"/> <img src="Figures/convergence_figures/yolox_loss_graph.png" width="330"/> <img src="Figures/convergence_figures/retinanet_loss_graph.png" width="330"/>
 <img src="Figures/convergence_figures/Detr_loss_graph.png" width="450"/> <img src="Figures/convergence_figures/deformable_detr_loss_graph.png" width="450"/> 
 
-<p align="center">
-  <div style="display: flex; justify-content: center;">
-    <div style="margin: 0 10px; text-align: center;">
-      <img src="Figures/convergence_figures/rtmdet_loss_graph.png" alt="Figure 1" width="330" /><br>
-      <span>Figure 1: Description of figure 1.</span>
-    </div>
-    
-    <div style="margin: 0 10px; text-align: center;">
-      <img src="Figures/convergence_figures/yolox_loss_graph.png" alt="Figure 2" width="330" /><br>
-      <span>Figure 2: Description of figure 2.</span>
-    </div>
-    
-    <div style="margin: 0 10px; text-align: center;">
-      <img src="Figures/convergence_figures/retinanet_loss_graph.png" alt="Figure 3" width="330" /><br>
-      <span>Figure 3: Description of figure 3.</span>
-    </div>
-  </div>
-</p>
-
-<p align="center">
-  <div style="display: flex; justify-content: center;">
-    <div style="margin: 0 10px; text-align: center;">
-      <img src="Figures/convergence_figures/Detr_loss_graph.png" alt="Figure 4" width="450" /><br>
-      <span>Figure 4: Description of figure 4.</span>
-    </div>
-    
-    <div style="margin: 0 10px; text-align: center;">
-      <img src="Figures/convergence_figures/deformable_detr_loss_graph.png" alt="Figure 5" width="450" /><br>
-      <span>Figure 5: Description of figure 5.</span>
-    </div>
-  </div>
-</p>
 
 
 ## Visual Results
