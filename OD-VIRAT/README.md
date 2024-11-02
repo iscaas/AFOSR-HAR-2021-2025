@@ -156,6 +156,7 @@ The ```$config``` contains ```deformable-detr-refine-twostage_r50_16xb2-50e_coco
 | Student<sub>3DCNN</sub>-TUTL (T=20) | 97.88 | 97.64 | 89.66 | 95.90 |
 
 <img src="Figures/convergence_figures/rtmdet_loss_graph.png" width="330"/> <img src="Figures/convergence_figures/yolox_loss_graph.png" width="330"/> <img src="Figures/convergence_figures/retinanet_loss_graph.png" width="330"/>
+<img src="Figures/convergence_figures/Detr_loss_graph.png" width="430"/> <img src="Figures/convergence_figures/deformable_detr_loss_graph.png" width="430"/> 
 ## Citation
 Will be updated upon publication.
 
