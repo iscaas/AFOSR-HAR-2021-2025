@@ -146,6 +146,27 @@ The ```$config``` contains ```deformable-detr-refine-twostage_r50_16xb2-50e_coco
 
 <img src="Figures/convergence_figures/rtmdet_loss_graph.png" width="330"/> <img src="Figures/convergence_figures/yolox_loss_graph.png" width="330"/> <img src="Figures/convergence_figures/retinanet_loss_graph.png" width="330"/>
 <img src="Figures/convergence_figures/Detr_loss_graph.png" width="450"/> <img src="Figures/convergence_figures/deformable_detr_loss_graph.png" width="450"/> 
+
+<figure style="display: inline-block; margin: 10px;">
+  <img src="Figures/convergence_figures/rtmdet_loss_graph.png" width="330"/>
+  <figcaption style="text-align: center;">RTMDet Loss Graph</figcaption>
+</figure>
+<figure style="display: inline-block; margin: 10px;">
+  <img src="Figures/convergence_figures/yolox_loss_graph.png" width="330"/>
+  <figcaption style="text-align: center;">YOLOX Loss Graph</figcaption>
+</figure>
+<figure style="display: inline-block; margin: 10px;">
+  <img src="Figures/convergence_figures/retinanet_loss_graph.png" width="330"/>
+  <figcaption style="text-align: center;">RetinaNet Loss Graph</figcaption>
+</figure>
+<figure style="display: inline-block; margin: 10px;">
+  <img src="Figures/convergence_figures/Detr_loss_graph.png" width="450"/>
+  <figcaption style="text-align: center;">DETR Loss Graph</figcaption>
+</figure>
+<figure style="display: inline-block; margin: 10px;">
+  <img src="Figures/convergence_figures/deformable_detr_loss_graph.png" width="450"/>
+  <figcaption style="text-align: center;">Deformable DETR Loss Graph</figcaption>
+</figure>
 ## Citation
 Will be updated upon publication.
 
