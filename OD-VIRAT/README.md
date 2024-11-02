@@ -148,6 +148,11 @@ The ```$config``` contains ```deformable-detr-refine-twostage_r50_16xb2-50e_coco
 <img src="Figures/convergence_figures/Detr_loss_graph.png" width="450"/> <img src="Figures/convergence_figures/deformable_detr_loss_graph.png" width="450"/> 
 
 
+<div align="center">
+  <img src="Figures/visual_results.png" alt="Image" width="1000"/>
+</div>
+<p><strong>Model Complexity vs Accuracy (mAP)</strong> trade-off comparison: We evaluate the performance of five main-stream object detection architectures on <strong>OD-VIRAT Tiny</strong> dataset and compared the obtained mAP values against model complexities <strong>(# of parameters)</strong>. The <strong>Deformable-DETR architecture with resnet50 backbone</strong> outperform other counterparts by obtaining the best mAP value.</p>
+
 ## Citation
 Will be updated upon publication.
 
