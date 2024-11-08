@@ -151,7 +151,7 @@ The ```$config``` contains ```deformable-detr-refine-twostage_r50_16xb2-50e_coco
 | Base Learning Rate | 0.004 | 0.01 | 0.01 | 0.0001 | 0.0002 |
 | Weight Decay | 0.05 | 0.0005 | 0.0001 | 0.0001 | 0.0001 |
 | Batch Size | 32/64/128 | 32/64/128 | 32/64/128 | 32/64/128 | 32/64/128 |
-| Optimizer Momentum | :x: | 0.9 | 0.9 | :x: | :x: |
+| Optimizer Momentum | ✘ | 0.9 | 0.9 | ✘ | ✘ |
 | Parameters Scheduler | CosineAnnealingLR | CosineAnnealingLR | CosineAnnealingLR | CosineAnnealingLR | CosineAnnealingLR |
 | Training Epochs  | 50 | 50 | 50 | 50 | 50 |
 
