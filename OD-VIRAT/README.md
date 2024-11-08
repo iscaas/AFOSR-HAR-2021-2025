@@ -145,6 +145,16 @@ time python tools/test.py $config
 ```
 The ```$config``` contains ```deformable-detr-refine-twostage_r50_16xb2-50e_coco_virat_bs64_eval.py``` which serves as an input argument to ```tools/test.py``` file.
 
+| Configuration  | RTMDET | YOLOX | RetinaNet | DETR | Deformable-DETR |                                  
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |              
+| Optimizer | AdamW | SGD | SGD | AdamW | AdamW |                           
+| Base Learning Rate | 0.004 | 0.01 | 0.01 | 0.0001 | 0.0002 |
+| Weight Decay | 0.05 | 0.0005 | 0.0001 | 0.0001 | 0.0001 |
+| Batch Size | 32/64/128 | 32/64/128 | 32/64/128 | 32/64/128 | 32/64/128 |
+| Optimizer Momentum | 95.86 | 96.40 | 90.67 | 95.04 |
+| Parameters Scheduler | CosineAnnealingLR | CosineAnnealingLR | CosineAnnealingLR | CosineAnnealingLR | CosineAnnealingLR |
+| Training Epochs  | 50 | 50 | 50 | 50 | 50 |
+
 ## Models Convergence Visualization 
 <div align="center">
   <img src="Figures/convergence_figure.png" alt="Image" width="1000"/>
