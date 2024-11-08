@@ -145,6 +145,7 @@ time python tools/test.py $config
 ```
 The ```$config``` contains ```deformable-detr-refine-twostage_r50_16xb2-50e_coco_virat_bs64_eval.py``` which serves as an input argument to ```tools/test.py``` file.
 
+## Model Training Configurations :gear:
 | Configuration  | RTMDET | YOLOX | RetinaNet | DETR | Deformable-DETR |                                  
 | ------------- | :---: | :---: | :---: | :---: | :---: |              
 | Optimizer | AdamW | SGD | SGD | AdamW | AdamW |                           
