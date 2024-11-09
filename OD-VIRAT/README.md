@@ -175,7 +175,8 @@ The ```$config``` contains ```deformable-detr-refine-twostage_r50_16xb2-50e_coco
 <div align="center">
   <img src="Figures/cmp_graph.png" alt="Image" width="1000"/> 
 </div>
-<p><strong>The obtained quantitative results in terms of 𝑚𝐴𝑃, 𝑚𝐴𝑃50, 𝑚𝐴𝑃75, 𝑚𝐴𝑃𝑆 , 𝑚𝐴𝑃𝑀 , and 𝑚𝐴𝑃𝐿 on test images perturbed with <strong>Gaussian Noise</strong>, <strong>Motion Blur</strong>, <strong>Snow</strong>, and <strong>Elastic Transform</strong> and five different level of perturbation severity <strong>(i.e., s = [1:1:5])</strong>.</p>
+<p>The obtained quantitative results in terms of 𝑚𝐴𝑃, 𝑚𝐴𝑃50, 𝑚𝐴𝑃75, 𝑚𝐴𝑃𝑆 , 𝑚𝐴𝑃𝑀 , and 𝑚𝐴𝑃𝐿 on test images perturbed with <strong>Gaussian Noise</strong>, <strong>Motion Blur</strong>, <strong>Snow</strong>, and <strong>Elastic Transform</strong> and five different level of perturbation severity <strong>(i.e., s = [1:1:5])</strong>.</p>
+  
 ## Citation
 Will be updated upon publication.
 
