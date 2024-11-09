@@ -159,7 +159,7 @@ The ```$config``` contains ```deformable-detr-refine-twostage_r50_16xb2-50e_coco
 ## Models Convergence Visualization 
 <div align="center">
   <img src="Figures/convergence_figure.png" alt="Image" width="1000"/>
-</div>
+</div> 
 
 ## Visual Results 
 <div align="center">
