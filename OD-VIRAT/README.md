@@ -161,7 +161,7 @@ The ```$config``` contains ```deformable-detr-refine-twostage_r50_16xb2-50e_coco
   <img src="Figures/convergence_figure.png" alt="Image" width="1000"/>
 </div>
 
-## Visual Results :eye:
+## Visual Results 
 <div align="center">
   <img src="Figures/visual_results.png" alt="Image" width="1000"/>
 </div>
