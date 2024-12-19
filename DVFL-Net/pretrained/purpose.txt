@@ -1,0 +1,3 @@
+Keep the pretrained models here...
+ - keep the teacher weights here for knowledge distillation
+ - keep the model weights here if you want to use it for model initialization rather than starting training from the scratch.

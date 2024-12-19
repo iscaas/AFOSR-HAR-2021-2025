@@ -1,0 +1,2 @@
+Use this directory as your output directory, which will have the training logs and model checkpoints during and after training.
+
