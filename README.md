@@ -1,2 +1,7 @@
 # AFOSR-HAR-2021-2025
-https://people.cs.ksu.edu/~amunir/lab/AFOSR-MultimodalActivityRecognitionProject.html
+
+Multimodal information fusion for human activity recognition is expected to outperform the models that rely on a single modality; nevertheless, most of the prior works considered either only a single or two sensor modalities. Additionally, existing approaches perform poorly under varying environmental and/or lighting conditions. Furthermore, most of the existing approaches are not suitable for real-time activity recognition.
+
+This research project proposes a deep learning-based framework for real-time human activity recognition at the edge under varying environmental and/or lighting conditions by leveraging multiple sensor modalities (e.g., color cameras, infrared cameras, depth cameras, radars, etc.) and an attention-based mechanism to fuse sensor data. The proposed framework performs comprehensive preprocessing of raw signal data followed by a specialized individual convolutional neural network (CNN) for each modality to extract meaningful features. The proposed framework then utilizes attention-based CNNs and recurrent layers to fuse spatial and temporal features. To help enable real-time and energy-efficient human activity recognition at the edge, this project also proposes innovative algorithms and techniques for hardware acceleration of the proposed activity recognition framework. The proposed framework also performs a data-driven analysis of the probabilities of classified activities, and the role of each sensor modality in determining the output that is in turn used for resource management of sensors and the activity recognition architecture for improving the accuracy of prediction and conserving energy of edge devices.
+
+
