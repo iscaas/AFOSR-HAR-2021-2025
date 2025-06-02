@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Figures/od_virat.png" width="1000"/>
+  <img src="Figures/od-virat-logo.png" width="1000"/>
 </p> 
 
 # OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments
