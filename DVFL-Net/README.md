@@ -5,7 +5,7 @@
 [Abbas Khan](https://scholar.google.com.pk/citations?user=k-HJxNAAAAAJ&hl=en),
 [Arslan Munir](https://scholar.google.com.pk/citations?user=-P9waaQAAAAJ&hl=en)
 
-[![paper](https://img.shields.io/badge/IEEE-Paper-%3CCOLOR%3E.svg)](https://ieeexplore.ieee.org/abstract/document/11185187)
+[![paper](https://img.shields.io/badge/IEEE-TCSVT-%3CCOLOR%3E.svg)](https://ieeexplore.ieee.org/abstract/document/11185187)
 
 <hr />
 
